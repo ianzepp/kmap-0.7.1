@@ -1,0 +1,12 @@
+# KDE Config File  
+[KDE Desktop Entry]
+Type=Application
+Exec=kmap -caption "%c" %i %m
+Icon=kmap.xpm
+MiniIcon=kmap.xpm
+DocPath=kmap/index.html
+Comment=
+Comment[de]=
+Terminal=0
+Name=Kmap
+Name[de]=Kmap

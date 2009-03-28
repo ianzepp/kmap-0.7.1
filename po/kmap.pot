@@ -1,0 +1,491 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2000-01-10 19:30-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+
+#: kmportview.cpp:22
+msgid "Kmap: Port Results"
+msgstr ""
+
+#: kmportview.cpp:28
+msgid "Address"
+msgstr ""
+
+#: kmportview.cpp:29
+msgid "Port"
+msgstr ""
+
+#: kmportview.cpp:30
+msgid "State"
+msgstr ""
+
+#: kmportview.cpp:31
+msgid "Protocol"
+msgstr ""
+
+#: kmportview.cpp:32
+msgid "Service"
+msgstr ""
+
+#: kminfoview.cpp:35 kmlogdlg.cpp:23 kmlogdlg.cpp:36 kmlogdlg.cpp:49
+#: kmnmapview.cpp:27 kmportview.cpp:34
+msgid "Save to log:"
+msgstr ""
+
+#: kminfoview.cpp:41 kmlogdlg.cpp:29 kmlogdlg.cpp:42 kmlogdlg.cpp:55
+#: kmnmapview.cpp:33 kmoptpaths.cpp:24 kmoptpaths.cpp:28 kmoptpaths.cpp:32
+#: kmportview.cpp:40
+msgid "Browse"
+msgstr ""
+
+#: kminfoview.cpp:346 kmlogdlg.cpp:113 kmlogdlg.cpp:147 kmlogdlg.cpp:181
+#: kmnmapview.cpp:103 kmportview.cpp:207
+msgid "Error: No filename given"
+msgstr ""
+
+#: kminfoview.cpp:347 kmlogdlg.cpp:114 kmlogdlg.cpp:148 kmlogdlg.cpp:182
+#: kmnmapview.cpp:104 kmportview.cpp:208
+msgid "No filename was given. Please choose a filename first."
+msgstr ""
+
+#: kminfoview.cpp:367 kmnmapview.cpp:111 kmportview.cpp:234
+msgid "Error: No text to save"
+msgstr ""
+
+#: kminfoview.cpp:368 kmnmapview.cpp:112 kmportview.cpp:235
+msgid "No text in the output window to save"
+msgstr ""
+
+#: kminfoview.cpp:380 kmnmapview.cpp:124 kmportview.cpp:247
+msgid "Error: Unable to save"
+msgstr ""
+
+#: kminfoview.cpp:381 kmnmapview.cpp:125 kmportview.cpp:248
+msgid "Unable to save: write permission denied"
+msgstr ""
+
+#: kminfoview.cpp:387 kmnmapview.cpp:131 kmportview.cpp:254
+msgid "Error: Write error"
+msgstr ""
+
+#: kminfoview.cpp:388 kmnmapview.cpp:132 kmportview.cpp:255
+msgid "Write error: unknown error"
+msgstr ""
+
+#: kminfoview.cpp:396 kmnmapview.cpp:140 kmportview.cpp:263
+msgid "File saved"
+msgstr ""
+
+#: kminfoview.cpp:397 kmnmapview.cpp:141 kmportview.cpp:264
+msgid "Successfully saved output text"
+msgstr ""
+
+#: kmoptscans.cpp:28
+msgid "Normal-user scans:"
+msgstr ""
+
+#: kmoptscans.cpp:31
+msgid "Root-only scans:"
+msgstr ""
+
+#: kmoptscans.cpp:34
+msgid "Ftp-server bounce:"
+msgstr ""
+
+#: kmoptscans.cpp:38
+msgid "TCP connect() scan"
+msgstr ""
+
+#: kmoptscans.cpp:39
+msgid "TCP ping scan"
+msgstr ""
+
+#: kmoptscans.cpp:40
+msgid "TCP/UDP rcp scan"
+msgstr ""
+
+#: kmoptscans.cpp:43
+msgid "TCP syn (half-open) scan"
+msgstr ""
+
+#: kmoptscans.cpp:44
+msgid "TCP fin scan"
+msgstr ""
+
+#: kmoptscans.cpp:45
+msgid "TCP Xmas tree scan"
+msgstr ""
+
+#: kmoptscans.cpp:46
+msgid "TCP null packet scan"
+msgstr ""
+
+#: kmoptscans.cpp:47
+msgid "UDP scan"
+msgstr ""
+
+#: kmoptscans.cpp:53
+msgid "Available ping options:"
+msgstr ""
+
+#: kmoptscans.cpp:56
+msgid "Don't ping the target host"
+msgstr ""
+
+#: kmoptscans.cpp:57
+msgid "Use TCP ping instead of ICMP"
+msgstr ""
+
+#: kmoptscans.cpp:58
+msgid "Use ICMP ping instead of TCP"
+msgstr ""
+
+#: kmoptscans.cpp:59
+msgid "Use TCP & ICMP in parallel"
+msgstr ""
+
+#: kmoptscans.cpp:62
+msgid "Set TCP ping to port:"
+msgstr ""
+
+#: kmoptscans.cpp:67
+msgid "Use SYN instead of ACK for TCP packets"
+msgstr ""
+
+#: kmoptdecoy.cpp:22
+msgid "Enable decoy use"
+msgstr ""
+
+#: kmoptdecoy.cpp:31
+msgid "Shift Up"
+msgstr ""
+
+#: kmoptdecoy.cpp:32
+msgid "Shift Down"
+msgstr ""
+
+#: kmoptdecoy.cpp:88
+msgid "Enable decoy use (must be root)"
+msgstr ""
+
+#: kmap.cpp:56 kmap.cpp:69
+msgid "Start Scanning"
+msgstr ""
+
+#: kmap.cpp:57 kmap.cpp:70
+msgid "Stop Scanning"
+msgstr ""
+
+#: kmap.cpp:72
+msgid "Setup Options"
+msgstr ""
+
+#: kmap.cpp:73
+msgid "History Window"
+msgstr ""
+
+#: kmap.cpp:75
+msgid "Scanned Port View"
+msgstr ""
+
+#: kmap.cpp:76
+msgid "Information View"
+msgstr ""
+
+#: kmap.cpp:77
+msgid "Nmap Output View"
+msgstr ""
+
+#: kmap.cpp:79
+msgid "Exit now"
+msgstr ""
+
+#: kmap.cpp:92 kmap.cpp:609
+msgid "Ready"
+msgstr ""
+
+#: kmap.cpp:482
+msgid "Kmap: Setup Options"
+msgstr ""
+
+#: kmap.cpp:500
+msgid "Kmap: History Listing"
+msgstr ""
+
+#: kmap.cpp:571
+msgid "Kmap network scanner"
+msgstr ""
+
+#: kmapview.cpp:24
+msgid "Remote hostname:"
+msgstr ""
+
+#: kmapview.cpp:28
+msgid "Nmap arguments:"
+msgstr ""
+
+#: kminfoview.cpp:22
+msgid "Kmap: Information"
+msgstr ""
+
+#: kminfoview.cpp:32
+msgid "The Problem"
+msgstr ""
+
+#: kminfoview.cpp:33
+msgid "The Solution"
+msgstr ""
+
+#: kminfoview.cpp:156
+msgid "Open TCP ports:"
+msgstr ""
+
+#: kminfoview.cpp:164
+msgid "Open UDP ports:"
+msgstr ""
+
+#: kminfoview.cpp:172
+msgid "Unknown-type ports:"
+msgstr ""
+
+#: kminfoview.cpp:238 kminfoview.cpp:274
+msgid "IP address did not resolve"
+msgstr ""
+
+#: kminfoview.cpp:240 kminfoview.cpp:276
+msgid "IP address resolved to: "
+msgstr ""
+
+#: kminfoview.cpp:283
+msgid "Sequence class: "
+msgstr ""
+
+#: kminfoview.cpp:291
+msgid "Sequence difficulty: "
+msgstr ""
+
+#: kminfoview.cpp:299
+msgid "Sequence numbers: "
+msgstr ""
+
+#: kminfoview.cpp:307
+msgid "Remote OS: "
+msgstr ""
+
+#: kminfoview.cpp:315
+msgid "Unknown OS: "
+msgstr ""
+
+#: kminfoview.cpp:316
+msgid "No OS matches for host"
+msgstr ""
+
+#: kmnmapview.cpp:22
+msgid "Kmap: Nmap Output"
+msgstr ""
+
+#: kmoptiondlg.cpp:41
+msgid "Scan Types"
+msgstr ""
+
+#: kmoptiondlg.cpp:44
+msgid "Other Options"
+msgstr ""
+
+#: kmoptiondlg.cpp:47
+msgid "Decoys"
+msgstr ""
+
+#: kmoptiondlg.cpp:50
+msgid "Stealth"
+msgstr ""
+
+#: kmoptiondlg.cpp:53
+msgid "Paths"
+msgstr ""
+
+#: kmoptother.cpp:22
+msgid "OS Identification"
+msgstr ""
+
+#: kmoptother.cpp:23
+msgid "Reverse ident scan"
+msgstr ""
+
+#: kmoptother.cpp:24
+msgid "Fast scan (services only)"
+msgstr ""
+
+#: kmoptother.cpp:25
+msgid "Specify a port range:"
+msgstr ""
+
+#: kmoptother.cpp:26
+msgid "Fragment TCP headers"
+msgstr ""
+
+#: kmoptother.cpp:28
+msgid "Randomize scans"
+msgstr ""
+
+#: kmoptother.cpp:29
+msgid "Never use DNS"
+msgstr ""
+
+#: kmoptother.cpp:30
+msgid "Always use DNS"
+msgstr ""
+
+#: kmoptother.cpp:32
+msgid "Enable verbosity"
+msgstr ""
+
+#: kmoptother.cpp:33
+msgid "Enable debug"
+msgstr ""
+
+#: kmoptother.cpp:36
+msgid "Level 1 verbose"
+msgstr ""
+
+#: kmoptother.cpp:37
+msgid "Level 2 verbose"
+msgstr ""
+
+#: kmoptother.cpp:38
+msgid "Level 3 verbose"
+msgstr ""
+
+#: kmoptother.cpp:39
+msgid "Level 4 verbose"
+msgstr ""
+
+#: kmoptother.cpp:42
+msgid "Level 1 debug"
+msgstr ""
+
+#: kmoptother.cpp:43
+msgid "Level 2 debug"
+msgstr ""
+
+#: kmoptother.cpp:44
+msgid "Level 3 debug (possible crash)"
+msgstr ""
+
+#: kmoptother.cpp:45
+msgid "Level 4 debug (likely crash)"
+msgstr ""
+
+#: kmoptstealth.cpp:24
+msgid "Nmap-defined modes"
+msgstr ""
+
+#: kmoptstealth.cpp:25
+msgid "User-defined modes"
+msgstr ""
+
+#: kmoptstealth.cpp:28
+msgid "Paranoid"
+msgstr ""
+
+#: kmoptstealth.cpp:29
+msgid "Sneaky"
+msgstr ""
+
+#: kmoptstealth.cpp:30
+msgid "Polite"
+msgstr ""
+
+#: kmoptstealth.cpp:31
+msgid "Normal"
+msgstr ""
+
+#: kmoptstealth.cpp:32
+msgid "Aggressive"
+msgstr ""
+
+#: kmoptstealth.cpp:33
+msgid "Insane"
+msgstr ""
+
+#: kmoptstealth.cpp:35
+msgid "Single host timeout (ms)"
+msgstr ""
+
+#: kmoptstealth.cpp:36
+msgid "Maximum retransmit timeout (ms)"
+msgstr ""
+
+#: kmoptstealth.cpp:37
+msgid "Initial retransmit timeout (ms)"
+msgstr ""
+
+#: kmoptstealth.cpp:38
+msgid "Maximum # of parallel scans"
+msgstr ""
+
+#: kmoptstealth.cpp:39
+msgid "Minimum delay between probes (ms)"
+msgstr ""
+
+#: kmoptpaths.cpp:22
+msgid "Nmap full path:"
+msgstr ""
+
+#: kmoptpaths.cpp:26
+msgid "Log in human format"
+msgstr ""
+
+#: kmoptpaths.cpp:30
+msgid "Log in machine format"
+msgstr ""
+
+#: kmhistory.cpp:37
+msgid "History List"
+msgstr ""
+
+#: kmhistory.cpp:79
+msgid "Host"
+msgstr ""
+
+#: kmoptabout.cpp:21
+msgid "Scanned:"
+msgstr ""
+
+#: kmoptabout.cpp:22
+msgid "Time:"
+msgstr ""
+
+#: kmoptabout.cpp:23
+msgid "Entries:"
+msgstr ""
+
+#: kmoptabout.cpp:24
+msgid "Logs:"
+msgstr ""
+
+#: kmoptabout.cpp:26
+msgid ""
+"Kmap Network Scanner\n"
+"\n"
+"Kmap is a KDE frontend to the network scanner nmap.\n"
+"Nmap is THE most advanced scanner (to my knowledge)\n"
+"available at this time, and support over 6 major\n"
+"scan types with a variety of supporting options.\n"
+"\n"
+"Kmap was written by: Ian Zepp <icszepp@islc.net>\n"
+"\n"
+"Kmap is at http://www.islc.net/~icszepp/kmap.html\n"
+"Nmap is at http://www.insecure.org/nmap\n"
+msgstr ""

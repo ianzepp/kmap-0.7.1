@@ -1,0 +1,14 @@
+Begin3
+Title:          Kmap
+Version:        0.7
+Entered-date:   
+Description:    Kmap is a KDE frontend to the network scanner nmap
+Keywords:        
+Author:         Ian Zepp <icszepp@islc.net> 
+Maintained-by:  Ian Zepp <icszepp@islc.net> 
+Primary-site:   	        
+Home-page:      http://www.islc.net/~icszepp/kmap.html
+Original-site:  
+Platforms:       Linux and other Unices
+Copying-policy: GNU Public License
+End

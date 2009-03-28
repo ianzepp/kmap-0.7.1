@@ -1,0 +1,20 @@
+Kmap 0.7.1
+
+1. Fixed bounce option not including host in options
+2. Added logging options to the port and info views
+3. Fixed bug when using verbosity that made each scanned host
+show up twice in the info window.
+4. Fixed shift-up and shift-down buttons not working for decoys.
+5. Fixed history window sorting problem.
+6. Logging now saves time and date along with logs.
+7. Kmap should now compile and link fine with the KDE 2 libs and with the
+QT 2.1 libs and moc. However, the configure scripts needed for kde 2 are
+still being tested out, and have not been successfully merged in yet.
+
+Kmap 0.7
+
+1. Rewrote frontend and separated the port/info/nmap windows from the main
+entry widget. They are now full-fledged desktop windows and toggleabel to
+boot.
+2. Fixed history window. Finally.
+3. Redid the option setup. It was way out of hand.

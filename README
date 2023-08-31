@@ -1,1 +1,7 @@
+# kmap
 
+Kmap is a old project of mine from around 1999-2000. It provided a front-end to the popular Nmap scanning software. It was built in C++/QT and integrated with the KDE desktop.
+
+http://code.google.com/p/ianzepp/source/browse/trunk/kmap-0.6.1 SVN Source Tree (version 0.6.1)
+
+http://code.google.com/p/ianzepp/source/browse/trunk/kmap-0.7.1 SVN Source Tree (version 0.7.1)
